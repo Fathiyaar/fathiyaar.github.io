@@ -1,0 +1,6 @@
+             <div class="card" style="width: 20rem; border: none; border-radius: 20px; background-color: #260b3b; left: -50%; margin-top: 10%;">
+                <img src="lunar-eclipse.jpg" class="card-img-top" style="width: 20rem; border-top-left-radius: 20px; border-top-right-radius: 15px; background-size: cover;">
+                <div class="card-body">
+                  <h5 class="card-title" style="color: goldenrod;">Lunar Eclipse</h5>
+                  <p class="card-text" style="color: white;">A lunar eclipse occurs when the Moon moves into the Earth's shadow. This can occur only when the Sun, Earth, and Moon are exactly or very closely aligned, with Earth between the other two.</p>
+                  <a href="#" class="btn btn-primary" style="background-color: rgb(250, 206, 96); color: black; font-weight: 500; border-radius: 10px; border: none;">More</a>
